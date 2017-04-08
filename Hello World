@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+       
+       <title>My Coding Journy
+       by Gabriel Drzynicki</title>
+  <style>
+      <!--
+        <link href="/style.css" type="text/css"
+        rel="stylesheet">
+      -->
+  h1 {
+      font-family: Cambria;
+      font-size: 30px;
+       } 
+  p {
+       color: blue;
+       font-family: Aldhabi;
+       font-size: 20px;
+       }
+  img {
+       border-radius: 45%;
+       } 
+       
+   </style>
+ </head>
+ <body>    
+   <h1> Hello World</h1>
+   <a href="https://whatboyswant.com"
+     target="_blank">
+     <img src="e:/pics/119657.jpg"
+  	 alt="Custom Beetle"/>
+   </a>
+   <p>This <strong>is</strong> this</p>
+   <p>This is that</p>
+  </body>
+</html>
